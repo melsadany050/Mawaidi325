@@ -1,0 +1,8 @@
+{
+  "appId": "com.mawaidi.app",
+  "appName": "مواعيدي",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
